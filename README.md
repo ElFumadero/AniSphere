@@ -3,7 +3,7 @@
 
 
 
-## Installation Dépendence
+## Installation Des Dépendence
 
 ```bash
  pip install discord.py aiohttp
