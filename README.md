@@ -31,7 +31,7 @@ Commandes interactives pour obtenir des informations détaillées sur les animes
 
 !manga <nom du manga> : Affiche des détails sur un manga spécifique 📘.
 
-!recommande <genre> : Recommande des animes en fonction du genre spécifié 🌟.
+!recommande  <genre> : Recommande des animes en fonction du genre spécifié 🌟.
 
 !anime <nom de l'anime> : Affiche des informations détaillées sur un anime spécifique 🎬.
 
