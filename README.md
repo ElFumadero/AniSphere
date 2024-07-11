@@ -27,15 +27,15 @@ Commandes interactives pour obtenir des informations détaillées sur les animes
 
 !credits : Affiche le nom du dev 😎.
 
-!suivre <nom de l'anime> : Ajoute un anime à la liste des suivis pour recevoir des notifications sur les nouvelles sorties d'épisodes 📺.
+!suivre (nom de l'anime) : Ajoute un anime à la liste des suivis pour recevoir des notifications sur les nouvelles sorties d'épisodes 📺.
 
-!manga <nom du manga> : Affiche des détails sur un manga spécifique 📘.
+!manga (nom du manga) : Affiche des détails sur un manga spécifique 📘.
 
-!recommande  <genre> : Recommande des animes en fonction du genre spécifié 🌟.
+!recommande  (genre) : Recommande des animes en fonction du genre spécifié 🌟.
 
-!anime <nom de l'anime> : Affiche des informations détaillées sur un anime spécifique 🎬.
+!anime (nom de l'anime) : Affiche des informations détaillées sur un anime spécifique 🎬.
 
-!stop_anime <nom de l'anime> : Arrête de suivre un anime spécifié pour ne plus recevoir de notifications 🚫.
+!stop_anime (nom de l'anime) : Arrête de suivre un anime spécifié pour ne plus recevoir de notifications 🚫.
 
 !aide : Affiche une liste des commandes disponibles et leur utilisation 📜.
 
